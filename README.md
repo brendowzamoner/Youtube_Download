@@ -1,4 +1,5 @@
 🎬 Youtube Download Automático com Python
+
 Este projeto é uma automação feita em Python que permite baixar vídeos ou áudios diretamente do YouTube, utilizando a biblioteca yt-dlp. A interface é interativa via terminal, e você pode escolher entre baixar vídeo em alta qualidade, somente o áudio ou áudio em MP3 com metadados.
 
 🚀 Funcionalidades
