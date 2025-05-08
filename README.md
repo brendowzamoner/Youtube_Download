@@ -2,7 +2,7 @@
 
 Este projeto é uma automação feita em Python que permite baixar vídeos ou áudios diretamente do YouTube, utilizando a biblioteca yt-dlp. A interface é interativa via terminal, e você pode escolher entre baixar vídeo em alta qualidade, somente o áudio ou áudio em MP3 com metadados.
 
-🚀 Funcionalidades
+<p align= center> 🚀 Funcionalidades
 📥 Download de vídeo em alta qualidade (MP4)
 
 🎵 Download de áudio (formato padrão do YouTube)
@@ -20,4 +20,4 @@ yt-dlp
 
 FFmpeg (para conversão MP3)
 
-Rich (para interface no terminal)
+Rich (para interface no terminal) ></p>
